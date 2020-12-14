@@ -1,0 +1,32 @@
+Sol: groc, vermell, taronja, colors brillants i clars.
+Lluna: blanc, gris, platejat.
+Mercuri: groc, gris, blanc.
+Venus: verd, celest, blau.
+Mart: vermell, negre, marró.
+Júpiter: blau, vermell, verd.
+Saturn: negre, colors foscos.
+
+Àries: vermell, negre.
+Taure: blanc, verd.
+Bessons: groc, blanc, taronja.
+Cranc: blanc, gris, verd clar.
+Lleó: vermell, groc, taronja.
+Verge: blanc.
+Balança: blau, verd.
+Escorpí: vermell, marró.
+Sagitari: blau, vermell.
+Capricorni: negre, tons foscos.
+Aquari: colors foscos.
+Peixos: blanc, rosat, clars.
+
+Àries / Verge
+Taure / Lleó
+Bessons / Cranc
+Balança / Peixos
+Escorpí / Aquari
+Sagitari / Capricorn
+
+Fortuna o antisci - Angles o regents
+Lluna o antisci - Angles o regents
+Regents o antiscis - Angles
+Nodes - Angles

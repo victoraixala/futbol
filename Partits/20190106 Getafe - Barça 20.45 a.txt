@@ -1,0 +1,33 @@
+Latitud: 40:19:33 N
+Longitud: 03:42:54 W
+
+06/01/2019 20:45:00 (HL)
+Zona Horaria: UT +01:00:00
+
+Planeta	Casa
+SolSol	Capricornio16°11'38"	5
+LunaLuna	Capricornio24°32'10"	6
+MercurioMercurio	Capricornio02°30'41"	5
+VenusVenus	Escorpio29°20'08"	4
+MarteMarte	Aries03°51'18"	8
+JúpiterJúpiter	Sagitario12°58'42"	4 » 5
+SaturnoSaturno	Capricornio12°03'54"	5
+UranoUrano	Aries28°36'00"E	9
+NeptunoNeptuno	Piscis14°12'31"	8
+PlutónPlutón	Capricornio20°47'21"	6
+Nodo N (m)Nodo N (m)	Cáncer27°15'34"R	12
+FortunaFortuna	Leo11°01'35"	12
+InfortunioInfortunio	Tauro27°34'42"	10
+Casas (Placidus)
+Casa 1 (AC)	Leo19°22'06"
+Casa 2	Virgo11°21'09"
+Casa 3	Libra08°22'21"
+Casa 4	Escorpio11°03'25"
+Casa 5	Sagitario16°44'07"
+Casa 6	Capricornio20°16'45"
+Casa 7	Acuario19°22'06"
+Casa 8	Piscis11°21'09"
+Casa 9	Aries08°22'21"
+Casa 10 (MC)	Tauro11°03'25"
+Casa 11	Géminis16°44'07"
+Casa 12	Cáncer20°16'45"

@@ -1,0 +1,33 @@
+MomIni,MomFi,Entitat1,Antisci1,Casa1,CasaAnt1,Signe1,Regent1a,Regent1b,Regent1c,Tipus,Entitat2,Casa2,CasaAnt2,Signe2,Regent2a,Regent2b,Regent2c,Partit
+21:01:00,22:50:50,Sol,No,6,1,Peixos,,,,sex. ,Mart,8,11,Taure,C7 ,,,20190227 FdP - Barça 21.00
+21:01:00,22:47:49,ant. Sol,Sí,6,1,Peixos,,,,sex. ,Júpiter,3,4,Sagitari,C10 ,,,20190227 FdP - Barça 21.00
+21:29:01,21:44:38,Lluna,No,3,3,Sagitari,,,,conj. ,Fortuna,3,3,Sagitari,,,,20190227 FdP - Barça 21.00
+22:21:10,22:36:52,ant. Lluna,Sí,3,3,Sagitari,,,,conj. ,Fortuna,3,3,Capricorn,,,,20190227 FdP - Barça 21.00
+21:01:00,21:15:03,ant. Lluna,Sí,3,4,Sagitari,,,,quad. ,Casa 1 (AC),,,Balança,,,,20190227 FdP - Barça 21.00
+22:40:16,22:50:50,Lluna,No,3,3,Sagitari,,,,sex. ,Casa 1 (AC),,,Balança,,,,20190227 FdP - Barça 21.00
+21:01:00,21:10:50,ant. Lluna,Sí,3,4,Sagitari,,,,conj. ,Casa 4,,,Capricorn,,,,20190227 FdP - Barça 21.00
+22:23:45,22:36:22,Lluna,No,3,3,Sagitari,,,,semi. ,Casa 4,,,Capricorn,,,,20190227 FdP - Barça 21.00
+21:01:00,22:50:50,Mercuri,No,6,12-1,Peixos,,,,sex. ,Venus,4,3,Capricorn,C1 ,,,20190227 FdP - Barça 21.00
+21:44:38,22:00:16,Venus,No,4,2,Capricorn,C1 ,,,semi. ,Fortuna,3,3,Sagitari,,,,20190227 FdP - Barça 21.00
+22:05:29,22:21:10,ant. Venus,Sí,4,2,Capricorn,C1 ,,,semi. ,Fortuna,3,3,Capricorn,,,,20190227 FdP - Barça 21.00
+22:36:22,22:48:54,Venus,No,4,2,Capricorn,C1 ,,,conj. ,Casa 4,,,Capricorn,,,,20190227 FdP - Barça 21.00
+21:01:00,21:35:44,ant. Mart,Sí,8,11,Taure,C7 ,,,tríg. ,Júpiter,3,4,Sagitari,C10 ,,,20190227 FdP - Barça 21.00
+21:42:27,22:50:50,ant. Mart,Sí,7-8,11,Taure,C7 ,,,tríg. ,Júpiter,3,3,Sagitari,C10 ,,,20190227 FdP - Barça 21.00
+21:08:13,21:23:49,ant. Mart,Sí,8,11,Taure,C7 ,,,tríg. ,Fortuna,3,4,Sagitari,,,,20190227 FdP - Barça 21.00
+22:42:06,22:50:50,Mart,No,7,10,Taure,C7 ,,,tríg. ,Fortuna,3,2-3,Capricorn,,,,20190227 FdP - Barça 21.00
+22:20:09,22:35:14,ant. Mart,Sí,7,10,Taure,C7 ,,,sex. ,Casa 1 (AC),,,Balança,,,,20190227 FdP - Barça 21.00
+22:06:47,22:19:31,ant. Mart,Sí,7,10-11,Taure,C7 ,,,quin. ,Casa 4,,,Capricorn,,,,20190227 FdP - Barça 21.00
+21:13:25,21:29:01,Júpiter,No,3,4,Sagitari,C10 ,,,conj. ,Fortuna,3,4,Sagitari,,,,20190227 FdP - Barça 21.00
+21:15:03,21:30:03,ant. Júpiter,Sí,3,4,Sagitari,C10 ,,,quad. ,Casa 1 (AC),,,Balança,,,,20190227 FdP - Barça 21.00
+21:10:50,21:23:50,ant. Júpiter,Sí,3,4,Sagitari,C10 ,,,conj. ,Casa 4,,,Capricorn,,,,20190227 FdP - Barça 21.00
+21:01:00,21:08:13,Saturn,No,4,3,Capricorn,C4 ,,,semi. ,Fortuna,3,4,Sagitari,,,,20190227 FdP - Barça 21.00
+21:35:03,21:50:03,ant. Saturn,Sí,4,3,Capricorn,C4 ,,,sex. ,Casa 1 (AC),,,Balança,,,,20190227 FdP - Barça 21.00
+22:05:05,22:15:54,Saturn,No,3-4,2-3,Capricorn,C4 ,,,quad. ,Casa 1 (AC),,,Balança,,,,20190227 FdP - Barça 21.00
+21:28:09,21:41:06,ant. Saturn,Sí,4,3,Capricorn,C4 ,,,semi. ,Casa 4,,,Capricorn,,,,20190227 FdP - Barça 21.00
+22:03:46,22:06:47,Saturn,No,3-4,2-3,Capricorn,C4 ,,,conj. ,Casa 4,,,Capricorn,,,,20190227 FdP - Barça 21.00
+21:01:00,21:15:03,ant. Node,Sí,10,9,Cranc,,,,tríg. ,Casa 1 (AC),,,Balança,,,,20190227 FdP - Barça 21.00
+22:40:16,22:50:50,Node,No,9-10,8,Cranc,,,,quad. ,Casa 1 (AC),,,Balança,,,,20190227 FdP - Barça 21.00
+21:01:00,21:10:50,ant. Node,Sí,10,9,Cranc,,,,quin. ,Casa 4,,,Capricorn,,,,20190227 FdP - Barça 21.00
+22:23:45,22:36:22,Node,No,10,8,Cranc,,,,opo. ,Casa 4,,,Capricorn,,,,20190227 FdP - Barça 21.00
+21:18:37,21:25:03,ant. Fortuna,Sí,3,4,Sagitari,,,,quad. ,Casa 1 (AC),,,Balança,,,,20190227 FdP - Barça 21.00
+21:15:10,21:23:49,ant. Fortuna,Sí,3,4,Sagitari,,,,conj. ,Casa 4,,,Capricorn,,,,20190227 FdP - Barça 21.00

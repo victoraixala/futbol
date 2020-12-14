@@ -1,0 +1,36 @@
+Fitxer llegit: 20190227 FdP - Barça 21.00 a.txt*
+cadena: 402711N
+latG: 40
+latM: 27
+latS: 11
+N/S: N
+cadena: 034118W
+lonG: 3
+lonM: 41
+lonS: 18
+E/W: W
+Fitxer llegit: 20190227 FdP - Barça 21.00 b.txt*
+Partit nocturn. CasaIni: 6 CasaFi: 4
+Creat Sol. Velocitat: 0.04185185185185185
+Creada Lluna. Velocitat: 0.5108333333333334
+Creat Mercuri. Velocitat: 0.03657407407407407
+Creat Venus. Velocitat: 0.04925925925925926
+Creat Mart. Velocitat: 0.027962962962962964
+Creat Júpiter. Velocitat: 0.005
+Creat Saturn. Velocitat: 0.003611111111111111
+Creat Node. Velocitat: -0.0022222222222222222
+Creada Fortuna. Velocitat: 11.41324074074074
+Creada C1. Velocitat: 11.88212962962963
+Creada C2. Velocitat: 2.7428703703703703
+Creada C3. Velocitat: 3.660277777777778
+Creada C4. Velocitat: 14.32324074074074
+Creada C5. Velocitat: 14.105555555555556
+Creada C6. Velocitat: 13.106666666666667
+Creada C7. Velocitat: 11.88212962962963
+Creada C8. Velocitat: 2.7428703703703703
+Creada C9. Velocitat: 3.660277777777778
+Creada C10. Velocitat: 14.32324074074074
+Creada C11. Velocitat: 14.105555555555556
+Creada C12. Velocitat: 13.106666666666667
+Fitxer llegit: 20190227 FdP - Barça 21.00 gols.csv*
+Processant 20190227 FdP - Barça 21.00...
